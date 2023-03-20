@@ -40,4 +40,4 @@ Info | |
 Code is accessible | Yes
 Requirements | [Yes](https://github.com/prefech/JD_logsV3#-requirements)
 Documentation | [Here](https://docs.prefech.com/jd_logsv3/)
-Support	| Yes, we have a [Discord](https://prefech.com/discord) server at your disposal
+Support	| Discord server delete
