@@ -31,13 +31,13 @@ Hello, this is a version of JD_logsV3 because the creator is deleting it as well
     - Easy to add with the export.
 
 ### 🔧 Download & Installation
-Please visit our docs for installation instructions [here](https://docs.prefech.com/jd_logsv3/installation/)
+Please visit our docs for installation instructions [here](https://docs.prefech.com/jd_logsv3/installation/) => Documentation always available
 
 ### 📈 Resmon Values.
 ![](https://prefech.com/i/7418e619-a9c9-4787-b3ac-b59ad4860768 "Resmon JD_logsV3")
 Info | |
 --- | --- |
 Code is accessible | Yes
-Requirements | [Yes](https://github.com/prefech/JD_logsV3#-requirements)
+Requirements | Yes
 Documentation | [Here](https://docs.prefech.com/jd_logsv3/)
 Support	| Discord server delete
