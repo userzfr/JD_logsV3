@@ -1,8 +1,4 @@
-<h4 align="center">
-	<img src="https://img.shields.io/github/last-commit/Prefech/JD_logsV3">
-	<img src="https://img.shields.io/github/contributors/Prefech/JD_logsV3.png">
-	<a href="https://prefech.com/discord" title=""><img alt="Discord Status" src="https://discordapp.com/api/guilds/721339695199682611/widget.png"></a>
-</h4>
+Hello, this is a version of JD_logsV3 because the creator is deleting it as well as the entire Prefech group. So I'm reposting it for those who are interested. MADE BY PREFECH ALL RIGHT RESERVE.
 
 <div align="center">
   <h1 align="center">JD_logsV3</h1>
