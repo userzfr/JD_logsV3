@@ -6,13 +6,6 @@ Hello, this is a version of JD_logsV3 because the creator is deleting it as well
   <p align="center">
     New JD_logs Server logger.
     <br />
-    <a href="https://forum.prefech.com/topic/19-report-an-issue/">Report Bug</a>
-    ·
-    <a href="https://prefech.com/discord/">Request Feature</a>
-    ·
-    <a href="https://docs.prefech.com/jd_logsv3/">Documentation</a>
-  </p>
-  <a href="https://prefech.com/discord" title=""><img alt="Discord Invite" src="https://discordapp.com/api/guilds/721339695199682611/widget.png?style=banner2"></a>
 </div>
 
 
