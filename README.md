@@ -39,5 +39,5 @@ Info | |
 --- | --- |
 Code is accessible | Yes
 Requirements | Yes
-Documentation | [Here](https://docs.prefech.com/jd_logsv3/)
+Documentation | [Here](https://github.com/Matdbx10/JD_logsV3/wiki)
 Support	| Discord server delete
