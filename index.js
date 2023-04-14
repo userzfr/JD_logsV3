@@ -16,6 +16,8 @@ client = new Client({
     partials: ["CHANNEL"],
 });
 
+client.config = config;
+
 const eventFiles = fs.readdirSync(`${GetResourcePath(GetCurrentResourceName())}/events/`).filter(file => file.endsWith('.js'));
 for (const file of eventFiles) {
 	const event = require(`./events/${file}`);
@@ -56,13 +58,4 @@ client.on('messageCreate', async (message) => {
     }
 })
 
-process.on('unhandledRejection', error => {
-	console.log(error);
-});
-
-process.setMaxListeners(20);
-
-try {
-    client.config = config;
-    client.login(config.token);
-} catch {}
+client.login(config.token)

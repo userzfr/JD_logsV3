@@ -2,7 +2,7 @@
     "prefix":"!jdlogs ",
     "token": "",
     "guildId": "",
-    "TimezoneOffset": "+01:00",
+    "TimezoneOffset": "+00:00",
     "language": "en",
 
     "NameChangePerms": "jd.staff",
@@ -44,12 +44,11 @@
         "WEAPON_FIREEXTINGUISHER",
         "WEAPON_PETROLCAN"
     ],
-    "ExplosionsNotLogged": [],
 
     "DiscordAcePerms": {
         "DISCORD_ROLE_ID": {
-            "groups": ["group.superadmin", "group.admin", "group.mod", "group._dev"],
-            "perms": ["jd.staff"]
+            "groups": ["group.admin", "group.mod", "any more you want to give"],
+            "perms": ["jd.staff", "same as groups but then for single permissions."]
         }
     }
 }

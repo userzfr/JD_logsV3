@@ -1,7 +1,3 @@
-
-
-
-
 Config = nil
 lang = nil
 

@@ -1,7 +1,3 @@
-
-
-
-
 ClientTables = {}
 
 ClientTables.WeaponNames = {
